@@ -1,0 +1,8 @@
+{
+    "input_files": {
+        "shapefile": "PATH_FOR_SHAPEFILE",
+        "data": "PATH_DATAFILE",
+        "depth_intervals": "PATH_FOR_FILE_WITH_EXTRA_INFO_DEPTH_INTERVALS"
+    },
+    "output_folder": "PATH_FOR_OUTPUTFOLDER"
+}
